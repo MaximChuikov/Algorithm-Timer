@@ -1,0 +1,16 @@
+D:\Repositories\ConsoleApp1\Laboratornaya\bin\Debug\net5.0\Laboratornaya.exe
+D:\Repositories\ConsoleApp1\Laboratornaya\bin\Debug\net5.0\Laboratornaya.deps.json
+D:\Repositories\ConsoleApp1\Laboratornaya\bin\Debug\net5.0\Laboratornaya.runtimeconfig.json
+D:\Repositories\ConsoleApp1\Laboratornaya\bin\Debug\net5.0\Laboratornaya.runtimeconfig.dev.json
+D:\Repositories\ConsoleApp1\Laboratornaya\bin\Debug\net5.0\Laboratornaya.dll
+D:\Repositories\ConsoleApp1\Laboratornaya\bin\Debug\net5.0\ref\Laboratornaya.dll
+D:\Repositories\ConsoleApp1\Laboratornaya\bin\Debug\net5.0\Laboratornaya.pdb
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\Laboratornaya.csproj.AssemblyReference.cache
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\Laboratornaya.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\Laboratornaya.AssemblyInfoInputs.cache
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\Laboratornaya.AssemblyInfo.cs
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\Laboratornaya.csproj.CoreCompileInputs.cache
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\Laboratornaya.dll
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\ref\Laboratornaya.dll
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\Laboratornaya.pdb
+D:\Repositories\ConsoleApp1\Laboratornaya\obj\Debug\net5.0\Laboratornaya.genruntimeconfig.cache
