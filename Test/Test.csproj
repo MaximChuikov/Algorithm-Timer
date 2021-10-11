@@ -20,7 +20,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Laboratornaya\Laboratornaya.csproj" />
+    <ProjectReference Include="..\FindMultiplyNum\FindMultiplyNum.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Algorithms">
+      <HintPath>..\Algorithms\bin\Debug\net5.0\Algorithms.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

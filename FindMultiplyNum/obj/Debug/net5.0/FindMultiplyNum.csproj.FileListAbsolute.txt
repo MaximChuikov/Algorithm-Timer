@@ -1,0 +1,33 @@
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.exe
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.deps.json
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.runtimeconfig.json
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.runtimeconfig.dev.json
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.dll
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\ref\FindMultiplyNum.dll
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.pdb
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\Graph Library.dll
+D:\Repositories\Lab Algorithms\FindMultiplyNum\bin\Debug\net5.0\Graph Library.pdb
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.AssemblyInfoInputs.cache
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.AssemblyInfo.cs
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.csproj.CoreCompileInputs.cache
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.csproj.CopyComplete
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.dll
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\ref\FindMultiplyNum.dll
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.pdb
+D:\Repositories\Lab Algorithms\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.genruntimeconfig.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.exe
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.deps.json
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.runtimeconfig.json
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.runtimeconfig.dev.json
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\bin\Debug\net5.0\ref\FindMultiplyNum.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\bin\Debug\net5.0\FindMultiplyNum.pdb
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.AssemblyInfoInputs.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.AssemblyInfo.cs
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.csproj.CoreCompileInputs.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\ref\FindMultiplyNum.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.pdb
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.genruntimeconfig.cache

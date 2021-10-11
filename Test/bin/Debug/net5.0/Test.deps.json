@@ -8,11 +8,12 @@
     ".NETCoreApp,Version=v5.0": {
       "Test/1.0.0": {
         "dependencies": {
-          "Laboratornaya": "1.0.0",
+          "FindMultiplyNum": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "coverlet.collector": "3.0.2",
           "xunit": "2.4.1",
-          "xunit.runner.visualstudio": "2.4.3"
+          "xunit.runner.visualstudio": "2.4.3",
+          "Algorithms": "1.0.0.0"
         },
         "runtime": {
           "Test.dll": {}
@@ -1090,9 +1091,25 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
-      "Laboratornaya/1.0.0": {
+      "FindMultiplyNum/1.0.0": {
         "runtime": {
-          "Laboratornaya.dll": {}
+          "FindMultiplyNum.dll": {}
+        }
+      },
+      "Algorithms/1.0.0.0": {
+        "runtime": {
+          "Algorithms.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Graph Library/1.0.0.0": {
+        "runtime": {
+          "Graph Library.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -1747,8 +1764,18 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
-    "Laboratornaya/1.0.0": {
+    "FindMultiplyNum/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algorithms/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Graph Library/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

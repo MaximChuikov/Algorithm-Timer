@@ -1671,14 +1671,14 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "Laboratornaya/1.0.0": {
+      "FindMultiplyNum/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Laboratornaya.dll": {}
+          "bin/placeholder/FindMultiplyNum.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Laboratornaya.dll": {}
+          "bin/placeholder/FindMultiplyNum.dll": {}
         }
       }
     }
@@ -5917,15 +5917,15 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Laboratornaya/1.0.0": {
+    "FindMultiplyNum/1.0.0": {
       "type": "project",
-      "path": "../Laboratornaya/Laboratornaya.csproj",
-      "msbuildProject": "../Laboratornaya/Laboratornaya.csproj"
+      "path": "../FindMultiplyNum/FindMultiplyNum.csproj",
+      "msbuildProject": "../FindMultiplyNum/FindMultiplyNum.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Laboratornaya >= 1.0.0",
+      "FindMultiplyNum >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "coverlet.collector >= 3.0.2",
       "xunit >= 2.4.1",
@@ -5939,11 +5939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\ConsoleApp1\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\Repositories\\Lab Algorithms\\Algorithm-Timer\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "D:\\Repositories\\ConsoleApp1\\Test\\Test.csproj",
+      "projectPath": "D:\\Repositories\\Lab Algorithms\\Algorithm-Timer\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\machs\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\ConsoleApp1\\Test\\obj\\",
+      "outputPath": "D:\\Repositories\\Lab Algorithms\\Algorithm-Timer\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Программы\\Visual Studio SDK\\NuGetPackages"
@@ -5964,8 +5964,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Repositories\\ConsoleApp1\\Laboratornaya\\Laboratornaya.csproj": {
-              "projectPath": "D:\\Repositories\\ConsoleApp1\\Laboratornaya\\Laboratornaya.csproj"
+            "D:\\Repositories\\Lab Algorithms\\Algorithm-Timer\\FindMultiplyNum\\FindMultiplyNum.csproj": {
+              "projectPath": "D:\\Repositories\\Lab Algorithms\\Algorithm-Timer\\FindMultiplyNum\\FindMultiplyNum.csproj"
             }
           }
         }

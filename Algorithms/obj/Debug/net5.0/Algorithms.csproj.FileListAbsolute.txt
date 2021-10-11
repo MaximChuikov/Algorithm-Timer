@@ -1,0 +1,37 @@
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.exe
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.deps.json
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.json
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.dev.json
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.dll
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\ref\Algorithms.dll
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.pdb
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\Graph Library.dll
+D:\Repositories\Lab Algorithms\Algorithms\bin\Debug\net5.0\Graph Library.pdb
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfoInputs.cache
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfo.cs
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CoreCompileInputs.cache
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CopyComplete
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.dll
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\ref\Algorithms.dll
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.pdb
+D:\Repositories\Lab Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.genruntimeconfig.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfoInputs.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfo.cs
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CoreCompileInputs.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\ref\Algorithms.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.pdb
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Algorithms.exe
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Algorithms.deps.json
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.json
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.dev.json
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Algorithms.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\ref\Algorithms.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Algorithms.pdb
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Graph Library.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Graph Library.pdb
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CopyComplete
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.genruntimeconfig.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.csproj.AssemblyReference.cache

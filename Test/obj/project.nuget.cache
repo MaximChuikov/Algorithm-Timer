@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1JQz+fCh7rhf7daRnChYwAxi+X+92ZEWH1T5HA76KwTZYS0ykbjTBDc9jSExt9nHqPsWKMGDNWnKmmC1JSj45w==",
+  "dgSpecHash": "KWKYibjhQL/TtFZD1e6qNzuuNDiS/jxafEdalJ7njyF9QFGgsqFBVtBhInZ1QH5xy8xi6wa68r9vIUHl71NJxA==",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\ConsoleApp1\\Test\\Test.csproj",
+  "projectFilePath": "D:\\Repositories\\Lab Algorithms\\Algorithm-Timer\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\machs\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\machs\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
