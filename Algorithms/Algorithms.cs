@@ -248,7 +248,7 @@ public class Sort
         while (!IsSorted(array))
             Shuffle(array);
 
-        //
+        //Вспомогательные методы
         bool IsSorted(int[] arr)
         {
             for (int i = 1; i < arr.Length; i++)

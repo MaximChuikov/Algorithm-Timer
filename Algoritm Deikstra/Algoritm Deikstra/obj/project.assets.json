@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Graph Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Graph Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Graph Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Graph Library/1.0.0": {
+      "type": "project",
+      "path": "../Graph/Graph Library.csproj",
+      "msbuildProject": "../Graph/Graph Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Graph Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\machs\\.nuget\\packages\\": {},
+    "D:\\Программы\\Visual Studio SDK\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Repositories\\Algoritm Deikstra\\Algoritm Deikstra\\Algoritm Deikstra.csproj",
+      "projectName": "Algoritm Deikstra",
+      "projectPath": "D:\\Repositories\\Algoritm Deikstra\\Algoritm Deikstra\\Algoritm Deikstra.csproj",
+      "packagesPath": "C:\\Users\\machs\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositories\\Algoritm Deikstra\\Algoritm Deikstra\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Программы\\Visual Studio SDK\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\machs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Repositories\\Algoritm Deikstra\\Graph\\Graph Library.csproj": {
+              "projectPath": "D:\\Repositories\\Algoritm Deikstra\\Graph\\Graph Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

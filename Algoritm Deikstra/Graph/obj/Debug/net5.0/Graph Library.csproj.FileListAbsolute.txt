@@ -1,0 +1,11 @@
+D:\Repositories\Algoritm Deikstra\Graph\bin\Debug\net5.0\Graph Library.deps.json
+D:\Repositories\Algoritm Deikstra\Graph\bin\Debug\net5.0\Graph Library.dll
+D:\Repositories\Algoritm Deikstra\Graph\bin\Debug\net5.0\ref\Graph Library.dll
+D:\Repositories\Algoritm Deikstra\Graph\bin\Debug\net5.0\Graph Library.pdb
+D:\Repositories\Algoritm Deikstra\Graph\obj\Debug\net5.0\Graph Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Algoritm Deikstra\Graph\obj\Debug\net5.0\Graph Library.AssemblyInfoInputs.cache
+D:\Repositories\Algoritm Deikstra\Graph\obj\Debug\net5.0\Graph Library.AssemblyInfo.cs
+D:\Repositories\Algoritm Deikstra\Graph\obj\Debug\net5.0\Graph Library.csproj.CoreCompileInputs.cache
+D:\Repositories\Algoritm Deikstra\Graph\obj\Debug\net5.0\Graph Library.dll
+D:\Repositories\Algoritm Deikstra\Graph\obj\Debug\net5.0\ref\Graph Library.dll
+D:\Repositories\Algoritm Deikstra\Graph\obj\Debug\net5.0\Graph Library.pdb
