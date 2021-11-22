@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using GraphLibrary;
+using Query;
 
 namespace Laboratornaya
 {
@@ -176,6 +177,105 @@ namespace Laboratornaya
                 sortedArr[0] = 0;
                 for (int i = 1; i < sortedArr.Length; i++)
                     sortedArr[i] = rand.Next(sortedArr[i - 1], sortedArr[i - 1] + 20000);
+            }
+        }
+        public static void HanobinsTowers()
+        {
+            var list = new List<double>();
+            double[] timeEllapsed;
+            for (int i = 1; i <= 25; i++)
+            {
+                timeEllapsed = new double[5];
+                for (int j = 0; j < timeEllapsed.Length; j++)
+                    timeEllapsed[j] = Timering(() => HanobinsTowersTask.HanobinsTowers(i));
+                ClearingData(ref timeEllapsed);
+                list.Add(timeEllapsed.Average());
+            }
+            AddString("Hanobins Towers", list.ToArray());
+        }
+        public static void QueueEnqueChallenge()
+        {
+            var myRecords = new List<double>();
+            var systemRecords = new List<double>();
+
+            MyQueue<int> myQueue = new();
+            Queue<int> systemQueue = new();
+
+            Action<int, Action> cycle = (int times, Action act) =>
+            {
+                for (int i = 0; i < times; i++)
+                    act();
+            };
+
+            for (int i = 1; i <= 5000; i++)
+            {
+                myQueue.Clear();
+                systemQueue.Clear();
+
+                Action act = () => myQueue.Enqueue(rand.Next());
+                myRecords.Add(Timering(() => cycle(i * 10, () => myQueue.Enqueue(rand.Next())))); 
+                systemRecords.Add(Timering(() => cycle(i * 10, () => systemQueue.Enqueue(rand.Next()))));
+            }
+            AddString("My Queue enque", myRecords.ToArray());
+            AddString("System Queue enque", systemRecords.ToArray());
+        }
+        public static void QueueRandomChallenge()
+        {
+            var myRecords = new List<double>();
+            var systemRecords = new List<double>();
+
+            MyQueue<int> myQueue = new();
+            Queue<int> systemQueue = new();
+
+            Action[] myMethods = new Action[]
+            {
+                () => myQueue.Enqueue(rand.Next()),
+                () =>
+                {
+                    try { myQueue.Dequeue(); }
+                    catch {};
+                },
+                () => myQueue.TryPeek(out int value),
+                () => { var a = myQueue.IsEmpty; }
+            };
+
+            Action[] systemMethods = new Action[]
+            {
+                () => systemQueue.Enqueue(rand.Next()),
+                () =>
+                {
+                    try { systemQueue.Dequeue(); }
+                    catch {};
+                },
+                () => systemQueue.TryPeek(out int value),
+                () => { var a = systemQueue.Count == 0; }
+            };
+
+            Action<int[], Action[]> cycle = (int[] commands, Action[] acts) =>
+            {
+                foreach (var i in commands)
+                    acts[i]();
+            };
+
+            for (int i = 1; i <= 350; i++)
+            {
+                myQueue.Clear();
+                systemQueue.Clear();
+
+                var commands = GenerateArray(i * 2, 4);
+
+                myRecords.Add(Timering(() => cycle(commands, myMethods)));
+                systemRecords.Add(Timering(() => cycle(commands, systemMethods)));
+            }
+            AddString("My Queue random commands", myRecords.ToArray());
+            AddString("System Queue random commands", systemRecords.ToArray());
+
+            int[] GenerateArray(int lenght, int max)
+            {
+                var arr = new int[lenght];
+                for (int i = 0; i < arr.Length; i++)
+                    arr[i] = rand.Next(0, max);
+                return arr;
             }
         }
         private static double Timering(Action act)

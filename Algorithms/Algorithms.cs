@@ -515,4 +515,39 @@ static class BinarySearchTask
             return RecBinSearch(arr, key, leftEdge, mid - 1);       //то влево
     }
 }
+static class HanobinsTowersTask
+{
+    private class Towers
+    {
+        Stack<int>[] towers;
+        List<string> usedCommands;
+        public Towers(Stack<int>[] towers)
+        {
+            this.towers = towers;
+            usedCommands = new List<string>();
+        }
+        public void Move(int from, int to) => towers[to].Push(towers[from].Pop());
+    }
+    public static void HanobinsTowers(int towerHeight)
+    {
+        var arr = new Stack<int>[3];
+        for (int i = 0; i < arr.Length; i++)
+            arr[i] = new Stack<int>();
+        for (int i = 1; i <= towerHeight; i++)
+            arr[0].Push(i);
+        var tower = new Towers(arr);
+
+        RecSolving(towerHeight, 0, 1, 2, tower);
+    }
+    private static void RecSolving(int layers, int a, int b, int c, Towers tower)
+    {
+        if (layers > 1) 
+            RecSolving(layers - 1, a, c, b, tower);
+
+        tower.Move(a, b);
+
+        if (layers > 1) 
+            RecSolving(layers - 1, c, b, a, tower);
+    }
+}
 

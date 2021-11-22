@@ -35,3 +35,5 @@ D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Graph
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CopyComplete
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.genruntimeconfig.cache
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.csproj.AssemblyReference.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Query.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Query.pdb

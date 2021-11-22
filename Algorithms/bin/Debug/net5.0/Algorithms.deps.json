@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v5.0": {
       "Algorithms/1.0.0": {
         "dependencies": {
-          "Graph Library": "1.0.0.0"
+          "Graph Library": "1.0.0.0",
+          "Query": "1.0.0.0"
         },
         "runtime": {
           "Algorithms.dll": {}
@@ -17,6 +18,14 @@
       "Graph Library/1.0.0.0": {
         "runtime": {
           "Graph Library.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Query/1.0.0.0": {
+        "runtime": {
+          "Query.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -31,6 +40,11 @@
       "sha512": ""
     },
     "Graph Library/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Query/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
