@@ -14,6 +14,12 @@
     <Reference Include="Query">
       <HintPath>..\..\..\QueryLib\QueryLib-main\Query\bin\Debug\net5.0\Query.dll</HintPath>
     </Reference>
+    <Reference Include="TextSort">
+      <HintPath>..\..\..\FileSorting\FileSorting\bin\Debug\net6.0\TextSort.dll</HintPath>
+    </Reference>
+    <Reference Include="TextSorting">
+      <HintPath>..\..\..\TextSorting\TextSorting\bin\Debug\net5.0\TextSorting.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

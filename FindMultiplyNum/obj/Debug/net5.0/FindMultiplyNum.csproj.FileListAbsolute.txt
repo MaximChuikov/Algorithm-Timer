@@ -31,3 +31,4 @@ D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\
 D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\ref\FindMultiplyNum.dll
 D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.pdb
 D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.genruntimeconfig.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\FindMultiplyNum\obj\Debug\net5.0\FindMultiplyNum.csproj.AssemblyReference.cache

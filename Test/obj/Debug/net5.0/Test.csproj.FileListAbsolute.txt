@@ -329,3 +329,7 @@ D:\Repositories\Lab Algorithms\Algorithm-Timer\Test\obj\Debug\net5.0\Test.dll
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Test\obj\Debug\net5.0\ref\Test.dll
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Test\obj\Debug\net5.0\Test.pdb
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Test\bin\Debug\net5.0\Query.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Test\bin\Debug\net5.0\TextSorting.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Test\bin\Debug\net5.0\Query.pdb
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Test\bin\Debug\net5.0\TextSorting.pdb

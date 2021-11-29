@@ -1111,6 +1111,22 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Query/1.0.0.0": {
+        "runtime": {
+          "Query.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TextSorting/1.0.0.0": {
+        "runtime": {
+          "TextSorting.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1775,6 +1791,16 @@
       "sha512": ""
     },
     "Graph Library/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Query/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextSorting/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

@@ -10,9 +10,10 @@ namespace Laboratornaya
     {
         static void Main()
         {
-            Timer.QueueEnqueChallenge();
-            Timer.QueueRandomChallenge();
-            Timer.CreateDoc("QueueChallenge");
+            string path = Environment.CurrentDirectory;
+            Timer.TextSort(new string[] { path + "\\6000.txt", path + "\\12000.txt", path + "\\18000.txt",
+                                          path + "\\24000.txt", path + "\\30000.txt", path + "\\36000.txt"});
+            Timer.CreateDoc("TextTimering");
         }
     }
 }

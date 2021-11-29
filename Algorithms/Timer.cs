@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using GraphLibrary;
 using Query;
+using TextSorting;
 
 namespace Laboratornaya
 {
@@ -277,6 +278,20 @@ namespace Laboratornaya
                     arr[i] = rand.Next(0, max);
                 return arr;
             }
+        }
+        public static void TextSort(string[] paths)
+        {
+            double[] shellTimes = new double[paths.Length];
+            double[] quickTimes = new double[paths.Length];
+            for (int i = 0; i < paths.Length; i++)
+            {
+                var shell = new WordsSorting(paths[i]);
+                var quick = new WordsSorting(paths[i]);
+                shellTimes[i] = Timering(() => shell.SortWithShellSort());
+                quickTimes[i] = Timering(() => quick.SortWithQuickSort());
+            }
+            AddString("Shell sort text", shellTimes);
+            AddString("Quick sort text", quickTimes);
         }
         private static double Timering(Action act)
         {

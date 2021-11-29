@@ -37,3 +37,5 @@ D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algor
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\obj\Debug\net5.0\Algorithms.csproj.AssemblyReference.cache
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Query.dll
 D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\Query.pdb
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\TextSorting.dll
+D:\Repositories\Lab Algorithms\Algorithm-Timer\Algorithms\bin\Debug\net5.0\TextSorting.pdb
